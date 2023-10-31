@@ -22,4 +22,4 @@ The main focus in this project will be concentrated on the application of machin
 ![stock](./plots/stock.png)
 
 #### Labeling extrema
-![extrema](./plots/extrema.png)
+![extrema](./plots/extremas.png)
