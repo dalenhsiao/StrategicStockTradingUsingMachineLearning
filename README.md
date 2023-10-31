@@ -16,10 +16,10 @@ The main focus in this project will be concentrated on the application of machin
 ### Example of Stock Data Acquisition and Labeling Extrema
 
 #### 1 month data
-![candlesticks](candlesticks.png)
+![candlesticks](./plots/candlesticks.png)
 
 #### Convert to continuous time series
-![stock](stock.png)
+![stock](./plots/stock.png)
 
 #### Labeling extrema
-![extrema](extrema.png)
+![extrema](./plots/extrema.png)
